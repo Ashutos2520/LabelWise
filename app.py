@@ -8,6 +8,19 @@ harmful_chemicals = {
     "sodium nitrite": "Used in processed meats; linked to increased cancer risk",
     "trans fats": "Increase risk of heart disease and raise bad cholesterol levels",
     "high fructose corn syrup": "Linked to obesity, diabetes, and metabolic disorders"
+"butylated hydroxyanisole (BHA)": "Synthetic antioxidant preservative; possible human carcinogen, may disrupt hormones",
+    "butylated hydroxytoluene (BHT)": "Synthetic antioxidant preservative; linked to liver damage and endocrine disruption",
+    "potassium bromate": "Flour improver in bread; associated with kidney damage and cancer in animal studies",
+    "sodium benzoate": "Preservative in soft drinks and acidic foods; may form benzene (a carcinogen) when combined with vitamin C",
+    "propylene glycol": "Humectant and stabilizer; can cause skin irritation and allergic reactions in sensitive individuals",
+    "sorbitol": "Sugar alcohol sweetener; excessive intake may cause bloating, gas, and diarrhea",
+    "sodium aluminum phosphate": "Leavening agent in baked goods; long-term exposure may be linked to neurotoxicity",
+    "aluminum ammonium sulfate": "Used in baking powders; may accumulate in the body and affect nervous system",
+    "artificial food coloring (Allura Red AC - Red 40)": "Synthetic dye in candies and drinks; linked to hyperactivity and allergic reactions in children",
+    "artificial food coloring (Tartrazine - Yellow 5)": "Synthetic dye; may cause allergic reactions and hyperactivity in sensitive individuals",
+    "artificial food coloring (Sunset Yellow FCF - Yellow 6)": "Synthetic dye; linked to hyperactivity and possible carcinogenic effects",
+    "azodicarbonamide": "Dough conditioner and bleaching agent; associated with respiratory issues and banned in some countries",
+    "tert-butylhydroquinone (TBHQ)": "Preservative in fried and frozen foods; linked to nausea, allergies, and potential carcinogenic effects"
 }
 
 @app.route("/")
